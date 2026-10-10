@@ -1,0 +1,34 @@
+risk_id,req_id,characteristic,priority,verification,acceptance,planned_tests,status
+R-01,FR-06,Functional suitability,Must,test,-,IT-FR06,planned
+R-02,FR-03,Functional suitability,Must,test,daily_limit.feature,UT-FR03,planned
+R-02,FR-05,Functional suitability,Must,test,-,UT-FR05,planned
+R-03,FR-12,Functional suitability,Must,test,lockout.feature,UT-FR12,planned
+R-03,FR-08,Functional suitability,Must,test,lockout.feature,UT-FR08,planned
+R-04,NFR-01,Performance efficiency,Must,test,-,PT-NFR01,planned
+R-04,NFR-05,Reliability,Should,analysis,-,MON-NFR05,planned
+R-05,NFR-02,Performance efficiency,Should,test,-,PT-NFR02,planned
+R-05,NFR-03,Interaction capability,Should,test,-,UX-NFR03,planned
+R-06,NFR-04,Security,Must,inspection,-,REV-NFR04;SA-NFR04,planned
+R-06,FR-14,Functional suitability,Should,test,-,UT-FR14;REV-FR14,planned
+R-07,FR-15,Security,Must,test,-,IT-FR15,planned
+R-08,FR-17,Reliability,Should,test,-,IT-FR17,planned
+R-09,FR-10,Functional suitability,Must,test,checkin.feature,UT-FR10,planned
+R-10,NFR-06,Maintainability,Must,inspection,-,REV-NFR06;UT-NFR06,planned
+R-11,FR-10,Functional suitability,Must,test,checkin.feature,UT-FR10,planned
+R-11,FR-12,Functional suitability,Must,test,lockout.feature,UT-FR12,planned
+R-12,FR-11,Functional suitability,Must,test,checkin.feature,UT-FR11,planned
+R-13,FR-07,Functional suitability,Must,test,-,UT-FR07,planned
+R-14,FR-16,Functional suitability,Should,test,-,UT-FR16,planned
+R-15,-,Maintainability,-,-,-,-,no requirement
+R-16,FR-05,Functional suitability,Must,test,-,UT-FR05,planned
+R-17,FR-04,Functional suitability,Must,test,daily_limit.feature,UT-FR04,planned
+R-17,FR-13,Functional suitability,Must,test,-,IT-FR13,planned
+R-18,FR-14,Functional suitability,Should,test,-,UT-FR14;REV-FR14,planned
+R-19,FR-07,Functional suitability,Must,test,-,UT-FR07,planned
+R-20,FR-11,Functional suitability,Must,test,checkin.feature,UT-FR11,planned
+-,FR-01,Functional suitability,Must,test,-,ST-FR01,planned
+-,FR-02,Functional suitability,Must,test,-,UT-FR02,planned
+-,FR-09,Functional suitability,Must,test,checkin.feature,UT-FR09,planned
+-,FR-18,Interaction capability,Could,test,-,UT-FR18,planned
+-,FR-19,Functional suitability,Must,test,-,UT-FR19,planned
+-,FR-20,Functional suitability,Must,test,-,UT-FR20,planned
